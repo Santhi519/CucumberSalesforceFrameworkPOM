@@ -1,0 +1,349 @@
+20240222 22:44:08 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:44:08 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:44:11 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:44:11 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:44:13 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:44:13 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:44:14 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:44:14 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:44:15 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:44:15 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:50:03 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:50:03 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:50:04 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:50:04 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:50:05 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:50:05 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:50:06 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:50:06 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:50:08 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:50:08 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:57:57 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:57:57 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 22:57:57 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 22:57:58 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 22:57:58 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 22:57:58 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:58:00 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:58:01 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 22:58:01 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 22:58:03 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 22:58:03 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 22:58:04 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 22:58:04 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:58:05 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:58:05 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 22:58:05 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 22:58:05 INFO  [main] base.BasePage BasePage.java61 - Remember Me button is clicked
+20240222 22:58:08 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 22:58:08 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 22:58:10 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 22:58:10 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 22:58:10 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 22:58:10 INFO  [main] base.BasePage BasePage.java61 - User menu button is clicked
+20240222 22:58:10 INFO  [main] base.BasePage BasePage.java61 - Logout button is clicked
+20240222 22:58:12 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 22:58:12 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Login | Salesforce
+20240222 22:58:12 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:58:14 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:58:14 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 22:58:17 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 22:58:17 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 22:58:17 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 22:58:17 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 22:58:17 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 22:58:17 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:06:54 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:06:54 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:06:55 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:06:56 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:06:56 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:06:56 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:06:58 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:06:58 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:06:58 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:07:00 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:07:00 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:07:01 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:07:01 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:07:02 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:07:02 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:07:02 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:07:03 INFO  [main] base.BasePage BasePage.java61 - Remember Me button is clicked
+20240222 23:07:04 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:07:04 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:07:05 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:07:05 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:07:05 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:07:05 INFO  [main] base.BasePage BasePage.java61 - User menu button is clicked
+20240222 23:07:05 INFO  [main] base.BasePage BasePage.java61 - Logout button is clicked
+20240222 23:07:07 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:07:07 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Login | Salesforce
+20240222 23:07:07 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:07:08 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:07:09 INFO  [main] base.BasePage BasePage.java61 - Forgot your password? button is clicked
+20240222 23:07:09 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:07:09 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Forgot Your Password | Salesforce
+20240222 23:07:09 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:07:10 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:07:10 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:07:10 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:07:10 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:07:10 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:07:10 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:14:17 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:14:17 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:14:18 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:14:18 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:14:18 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:14:18 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:14:19 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:14:19 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:14:19 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:14:21 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:14:21 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:14:22 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:14:22 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:14:24 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:14:24 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:14:24 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:14:24 INFO  [main] base.BasePage BasePage.java61 - Remember Me button is clicked
+20240222 23:14:27 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:14:27 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:14:28 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:14:28 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:14:28 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:14:28 INFO  [main] base.BasePage BasePage.java61 - User menu button is clicked
+20240222 23:14:28 INFO  [main] base.BasePage BasePage.java61 - Logout button is clicked
+20240222 23:14:30 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:14:30 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Login | Salesforce
+20240222 23:14:30 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:14:31 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:14:32 INFO  [main] base.BasePage BasePage.java61 - Forgot your password? button is clicked
+20240222 23:14:32 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:14:32 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Forgot Your Password | Salesforce
+20240222 23:14:32 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:14:33 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:14:33 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:14:33 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:14:33 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:14:33 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:14:33 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:21:58 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:21:58 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:21:58 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:21:59 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:21:59 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:21:59 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:22:01 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:22:01 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:22:01 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:22:03 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:22:03 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:22:04 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:22:04 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:22:05 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:22:05 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:22:05 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:22:05 INFO  [main] base.BasePage BasePage.java61 - Remember Me button is clicked
+20240222 23:22:07 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:22:07 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:22:08 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:22:08 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:22:08 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:22:08 INFO  [main] base.BasePage BasePage.java61 - User menu button is clicked
+20240222 23:22:08 INFO  [main] base.BasePage BasePage.java61 - Logout button is clicked
+20240222 23:22:10 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:22:10 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Login | Salesforce
+20240222 23:22:10 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:22:12 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:22:13 INFO  [main] base.BasePage BasePage.java61 - Forgot your password? button is clicked
+20240222 23:22:13 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:22:13 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Forgot Your Password | Salesforce
+20240222 23:22:13 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:22:14 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:22:14 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:22:14 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:22:14 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:22:14 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:22:14 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:32:42 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:32:42 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:32:42 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:32:42 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:32:42 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:32:43 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:32:45 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:32:45 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:32:45 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:32:47 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:32:47 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:32:48 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:32:48 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:32:49 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:32:50 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:32:50 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:32:50 INFO  [main] base.BasePage BasePage.java61 - Remember Me button is clicked
+20240222 23:32:53 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:32:53 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:32:53 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:32:53 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:32:53 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:32:53 INFO  [main] base.BasePage BasePage.java61 - User menu button is clicked
+20240222 23:32:53 INFO  [main] base.BasePage BasePage.java61 - Logout button is clicked
+20240222 23:32:55 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:32:55 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Login | Salesforce
+20240222 23:32:55 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:32:56 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:32:57 INFO  [main] base.BasePage BasePage.java61 - Forgot your password? button is clicked
+20240222 23:32:57 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:32:57 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Forgot Your Password | Salesforce
+20240222 23:32:57 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:32:57 INFO  [main] base.BasePage BasePage.java61 - Continue button is clicked
+20240222 23:32:57 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Password reset Message
+20240222 23:32:57 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java184 - The Forgot password message displayed is: 
+We’ve sent you an email with a link to finish resetting your password.
+Can’t find the email? Try checking your spam folder.
+If you still can’t log in, have us resend the email or contact your Salesforce administrator.
+20240222 23:32:57 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:32:59 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:32:59 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:33:00 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:33:00 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:33:00 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:33:00 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:35:00 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:35:01 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:35:01 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:35:01 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:35:01 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:35:01 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:35:03 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:35:03 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:35:03 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:35:04 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:35:04 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:35:05 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:35:05 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:35:06 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:35:06 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:35:07 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:35:07 INFO  [main] base.BasePage BasePage.java61 - Remember Me button is clicked
+20240222 23:35:08 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:35:08 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:35:09 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:35:09 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:35:09 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:35:09 INFO  [main] base.BasePage BasePage.java61 - User menu button is clicked
+20240222 23:35:09 INFO  [main] base.BasePage BasePage.java61 - Logout button is clicked
+20240222 23:35:11 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:35:11 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Login | Salesforce
+20240222 23:35:11 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:35:13 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:35:14 INFO  [main] base.BasePage BasePage.java61 - Forgot your password? button is clicked
+20240222 23:35:14 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:35:14 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Forgot Your Password | Salesforce
+20240222 23:35:14 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:35:14 INFO  [main] base.BasePage BasePage.java61 - Continue button is clicked
+20240222 23:35:14 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Password reset Message
+20240222 23:35:14 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java185 - The Forgot password message displayed is: 
+We’ve sent you an email with a link to finish resetting your password.
+Can’t find the email? Try checking your spam folder.
+If you still can’t log in, have us resend the email or contact your Salesforce administrator.
+20240222 23:35:14 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:35:16 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:35:16 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:35:17 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:35:17 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:35:17 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:35:17 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:37:45 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:37:46 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:37:46 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:37:46 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:37:46 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:37:46 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:37:48 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:37:49 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:37:49 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:37:50 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:37:50 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:37:52 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:37:52 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:37:53 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:37:53 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:37:53 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:37:53 INFO  [main] base.BasePage BasePage.java61 - Remember Me button is clicked
+20240222 23:37:55 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:37:55 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:37:56 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:37:56 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:37:56 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240222 23:37:56 INFO  [main] base.BasePage BasePage.java61 - User menu button is clicked
+20240222 23:37:56 INFO  [main] base.BasePage BasePage.java61 - Logout button is clicked
+20240222 23:37:58 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:37:58 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Login | Salesforce
+20240222 23:37:59 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:38:00 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:38:00 INFO  [main] base.BasePage BasePage.java61 - Forgot your password? button is clicked
+20240222 23:38:00 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240222 23:38:00 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Forgot Your Password | Salesforce
+20240222 23:38:00 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:38:00 INFO  [main] base.BasePage BasePage.java61 - Continue button is clicked
+20240222 23:38:00 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Password reset Message
+20240222 23:38:00 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java185 - The Forgot password message displayed is: 
+We’ve sent you an email with a link to finish resetting your password.
+Can’t find the email? Try checking your spam folder.
+If you still can’t log in, have us resend the email or contact your Salesforce administrator.
+20240222 23:38:01 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240222 23:38:02 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240222 23:38:02 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240222 23:38:02 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240222 23:38:02 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240222 23:38:02 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240222 23:38:02 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240223 09:49:24 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240223 09:49:24 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240223 09:49:24 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240223 09:49:25 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240223 09:49:25 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240223 09:49:25 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240223 09:49:27 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240223 09:49:27 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240223 09:49:27 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240223 09:49:29 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240223 09:49:29 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240223 09:49:31 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240223 09:49:31 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240223 09:49:33 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240223 09:49:33 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240223 09:49:33 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240223 09:49:33 INFO  [main] base.BasePage BasePage.java61 - Remember Me button is clicked
+20240223 09:49:35 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240223 09:49:35 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240223 09:49:36 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240223 09:49:36 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240223 09:49:36 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Home Page ~ Salesforce - Developer Edition
+20240223 09:49:36 INFO  [main] base.BasePage BasePage.java61 - User menu button is clicked
+20240223 09:49:36 INFO  [main] base.BasePage BasePage.java61 - Logout button is clicked
+20240223 09:49:38 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240223 09:49:38 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Login | Salesforce
+20240223 09:49:39 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240223 09:49:41 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240223 09:49:41 INFO  [main] base.BasePage BasePage.java61 - Forgot your password? button is clicked
+20240223 09:49:41 INFO  [main] base.BasePage BasePage.java165 - waiting until page loads with 30 sec maximum
+20240223 09:49:41 INFO  [main] base.BasePage BasePage.java77 - Title of the current webpage is Forgot Your Password | Salesforce
+20240223 09:49:41 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240223 09:49:42 INFO  [main] base.BasePage BasePage.java61 - Continue button is clicked
+20240223 09:49:42 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Password reset Message
+20240223 09:49:42 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java185 - The Forgot password message displayed is: 
+We�ve sent you an email with a link to finish resetting your password.
+Can�t find the email? Try checking your spam folder.
+If you still can�t log in, have us resend the email or contact your Salesforce administrator.
+20240223 09:49:42 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
+20240223 09:49:43 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java52 - https://login.salesforce.com/is entered
+20240223 09:49:43 INFO  [main] base.BasePage BasePage.java42 - Data is entered in username textbox
+20240223 09:49:43 INFO  [main] base.BasePage BasePage.java42 - Data is entered in password textbox
+20240223 09:49:43 INFO  [main] base.BasePage BasePage.java61 - Login Button button is clicked
+20240223 09:49:43 INFO  [main] base.BasePage BasePage.java71 - Text is extracted from Error Message
+20240223 09:49:44 INFO  [main] steps.SalesforceLoginStepDef SalesforceLoginStepDef.java57 - current browser closed
